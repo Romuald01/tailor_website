@@ -1,0 +1,22 @@
+.header{
+
+}
+.first-side,.second-side{
+    background-color: gray;
+    height: 100%;
+    width:50%;
+    color: black;
+}
+.second-side{
+    background-color:yellow;
+}
+.logo_img{
+    height: 50px;
+    width: 50px;
+}
+.site_response{
+    font-weight: 900;
+    font-size: 24px;
+    color: red;
+    
+}
